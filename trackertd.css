@@ -118,7 +118,7 @@ nav ul {
 }
 
 .cg2image {
-    grid-column: image;   
+    grid-column: image;
 }
 
 .cg2description {
@@ -227,9 +227,9 @@ hr {
 h1 {
     font-family:Impact;
     font-weight:normal;
-    font-size:40px;
+    font-size:70px;
     text-decoration: none;
-    letter-spacing:1em;
+    letter-spacing:0.2em;
     text-align:center;
     color:#FFF;
     margin-bottom:10px;
