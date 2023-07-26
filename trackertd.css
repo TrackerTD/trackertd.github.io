@@ -38,7 +38,6 @@ nav ul {
 .links {
     margin-top:0.5em;
     margin-left:0.5em;
-    background-image:url(images/angle.png);
     background-position: bottom left;
     background-repeat:no-repeat;
     background-color:#FF2EBE;
@@ -52,6 +51,7 @@ nav ul {
     font-size:1.2em;
     letter-spacing:.4em;
     line-height:2em;
+    background-color:#FF2EBE;
     text-decoration:none;
 }
 
@@ -59,6 +59,7 @@ nav ul {
     color:#000;
     text-decoration:none;
 }
+
 
 .content {
     background-color:#434243;
