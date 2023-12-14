@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     height: 100%;
-    font-family:Tahoma;
+    font-family:Tahoma, Arial;
     font-kerning:auto;
     line-height:1.6;
 }
