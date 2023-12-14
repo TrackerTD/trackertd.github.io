@@ -209,6 +209,10 @@ nav ul {
     width:auto;
 }
 
+img
+    max-width: 50%;
+}
+
 #frontpagetitle {
     margin-top:10px;
     background-image:url(images/typelogo.png);
@@ -256,13 +260,19 @@ h2 {
 .textbox {
     padding:20px;
     margin:auto;
+    max-width:900px;
+}
+
+.bodytext {
+    text-align: justify;
+    max-width:1000px;
 }
 
 h2 {
     font-family:Impact;
     font-size:40px;
     text-align:center;
-    letter-spacing:0.6em;
+    letter-spacing:0.5em;
     color:#FFF;
 }
 
@@ -292,11 +302,17 @@ footer {
     color: #FFF;
 }
 
+.container img {
+  max-height: 50%;
+  max-width: 50%;
+}
+
 .footer-box {
     box-sizing: border-box;
     padding-left: 1em;
     padding-bottom: 0.5em;
 }
+
 
 footer a {
     color:limegreen;
