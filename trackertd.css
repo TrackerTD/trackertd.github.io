@@ -1,7 +1,9 @@
 html, body {
     margin: 0;
     height: 100%;
-    font-family:Arial;
+    font-family:Tahoma;
+    font-kerning:auto;
+    line-height:1.6;
 }
 
 body {
