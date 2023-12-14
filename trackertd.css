@@ -43,7 +43,12 @@ nav ul {
     background-color:#FF2EBE;
     font-family:Impact;
     text-align:end;
+    color:#FFF;
 }
+
+a:visited {  
+color: lime;  
+}  
 
 .links a {
     color:#FFF;
