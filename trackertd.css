@@ -59,12 +59,10 @@ color: lime;
     letter-spacing:.4em;
     line-height:2em;
     background-color:#FF2EBE;
-    text-decoration:none;
 }
 
 .links a:hover {
     color:#000;
-    text-decoration:none;
 }
 
 
