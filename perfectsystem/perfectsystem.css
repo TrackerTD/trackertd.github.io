@@ -39,7 +39,6 @@ nav ul {
 
 .links {
     margin-top:0.5em;
-    margin-left:0.5em;
     background-position: bottom left;
     background-repeat:no-repeat;
     background-color:#FF2EBE;
@@ -233,7 +232,6 @@ hr {
     border-left:none;
     border-right:none;
     border-bottom:none;
-    padding-bottom:5px;
 }
 
 h1 {

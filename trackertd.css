@@ -39,7 +39,6 @@ nav ul {
 
 .links {
     margin-top:0.5em;
-    margin-left:0.5em;
     background-position: bottom left;
     background-repeat:no-repeat;
     background-color:#FF2EBE;
@@ -61,6 +60,8 @@ color: lime;
     background-color:#FF2EBE;
     text-decoration:none;
 }
+
+
 
 .links a:hover {
     color:#000;
@@ -233,7 +234,6 @@ hr {
     border-left:none;
     border-right:none;
     border-bottom:none;
-    padding-bottom:5px;
 }
 
 h1 {
@@ -260,7 +260,7 @@ h2 {
 
 .innerheader {
     box-sizing:border-box;
-    margin-bottom:10px;
+    margin-bottom:5px;
     background-color:#2E2E2E;
 }
 
@@ -285,9 +285,17 @@ h2 {
 }
 
 h3 {
-    color:lime;
+  font-family:Impact;
+  font-size:35px;
+  text-align:center;
+  letter-spacing:0.5em;
+  color:#FFF;
+}
+
+h4 {
     margin:0;
     font-size:25px;
+
 }
 
 .harukainfodeskbottom {
